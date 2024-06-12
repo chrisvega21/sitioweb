@@ -1,0 +1,108 @@
+.arribita {
+    background-color: #806000;
+    width: 100%;
+    color: white;
+    padding: 10px;
+    padding-top: 0px;
+}
+
+table.arriba {
+    border: #806000;
+    border-collapse: collapse;
+}
+
+.banner {
+    text-align: center; /* Esto centra horizontalmente el contenido */
+    display: block;
+    margin: 0 auto; /* Esto centra la imagen horizontalmente */
+    font-size: 20px;
+    width: 70%; /* INDICA EL GROSOR */
+    border-radius: 15px;
+}
+
+h2 {
+    text-align: center;
+    color: orange ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: center;
+}
+
+
+.segundatabla {
+    border: black 1px solid;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagenes, .titulos {
+    border: black 1px solid;
+    border-collapse: collapse;
+}
+
+h3.primero {
+    text-align: center;
+    color: darkgreen;
+    font: bold;
+}
+
+h3.segundo {
+    color: darkgreen;
+    font: bold;
+    margin-left: 20%;
+}
+
+.titulos {
+    text-align: center;
+    background-color:#FBE4D5 ;
+    color: green;
+}
+
+.imagenes {
+    margin: 0 auto;
+}
+
+.bene {
+    border: black 1px solid;
+    margin: 0 auto;
+    width: 60%;
+    border-collapse: collapse;
+}
+
+.lista1, .lista2 {
+    border: black 1px solid;
+    padding-right: 25px;
+}
+
+.distritos, .cabecera, .mapa {
+    border: black 1px solid;
+    border-collapse: collapse;
+}
+
+.cabecera {
+    text-align: center;
+    padding: 2%;
+    background-color: rgb(6, 100, 6);
+    color: white;
+}
+
+.distritos {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    background-color: #5c4606;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    font: bold;
+}
+
+body {
+    background-color: rgb(167, 252, 167);
+}
